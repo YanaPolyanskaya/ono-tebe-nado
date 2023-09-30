@@ -235,7 +235,7 @@
   /* letter-spacing: 0.3px; */
 }
 
-.link_view-more {
+.link__view-more {
   color: #000;
   font-family: "Raleway", sans-serif;
   font-size: 20px;
@@ -337,7 +337,7 @@
   list-style: none;
 }
 
-.footer--public-link {
+.footer__public-link {
   color: #000;
 }
 
