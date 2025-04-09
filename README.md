@@ -10,7 +10,4 @@
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" title="figma"/>&nbsp;
     <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" title="vscode"/>&nbsp;
   </div>
-  <div align="center">
-     <a href="https://github.com/YanaPolyanskaya/ono-tebe-nado.git">Ссылка на репозиторий</a>
-  </div>
 </div>
